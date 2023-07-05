@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2022-02-27T00:00:50.52Z",
+    "level_name": "lobby_screen",
+    "value": 76
+  },
+  {
+    "timestamp": "2022-02-27T00:23:51.21Z",
+    "level_name": "level1",
+    "value": 129
+  },
+  {
+    "timestamp": "2022-02-27T01:04:12.55Z",
+    "level_name": "lobby_screen",
+    "value": 91
+  },
+  {
+    "timestamp": "2022-02-27T19:05:12.55Z",
+    "level_name": "help",
+    "value": 50
+  }
+]
